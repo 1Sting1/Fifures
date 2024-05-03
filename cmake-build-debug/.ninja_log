@@ -1,0 +1,14 @@
+# ninja log v5
+1	160	7364235617014562	build.ninja	3f42c3eec8d46981
+0	409	7364222603952807	CMakeFiles/Figures.dir/prog/main.cpp.obj	8799b006a1b65fa4
+8	396	7364235791631553	CMakeFiles/Figures.dir/elips.cpp.obj	a4dd4cfd1b834724
+0	406	7364235791757522	CMakeFiles/Figures.dir/circl.cpp.obj	5ecc0ed57fc95d8d
+12	408	7364235791778813	CMakeFiles/Figures.dir/rectangle.cpp.obj	48b278ead91d1efc
+5	452	7364235792226393	CMakeFiles/Figures.dir/main.cpp.obj	39d665183b8e8d3a
+16	483	7364235792534976	CMakeFiles/Figures.dir/triangle.cpp.obj	ba6c7ab44c44f6c8
+483	562	7364235793297618	Figures.exe	8dc22e0f8801ffc9
+3	454	7364262733556621	CMakeFiles/Figures.dir/circl.cpp.obj	5ecc0ed57fc95d8d
+455	559	7364262734573820	Figures.exe	8dc22e0f8801ffc9
+11	463	7364268071960790	CMakeFiles/Figures.dir/elips.cpp.obj	a4dd4cfd1b834724
+3	478	7364268072120893	CMakeFiles/Figures.dir/circl.cpp.obj	5ecc0ed57fc95d8d
+7	500	7364268072335896	CMakeFiles/Figures.dir/main.cpp.obj	39d665183b8e8d3a

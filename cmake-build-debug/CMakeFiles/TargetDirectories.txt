@@ -1,0 +1,3 @@
+C:/Users/Sting/Documents/Figures/cmake-build-debug/CMakeFiles/Figures.dir
+C:/Users/Sting/Documents/Figures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sting/Documents/Figures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
